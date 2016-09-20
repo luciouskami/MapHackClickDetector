@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/dll/dll
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/dll/dll/stdafx.h
+END
+dllmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/dll/dll/dllmain.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/dll/dll/targetver.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/dll/dll/stdafx.cpp
+END
+dll.vcproj.zjf-PC.zjf.user
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/dll/dll/dll.vcproj.zjf-PC.zjf.user
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/dll/dll/ReadMe.txt
+END
+dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/dll/dll/dll.cpp
+END
+dll.vcproj.lenovo-PC.lenovo.user
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dll/dll/dll.vcproj.lenovo-PC.lenovo.user
+END
+dll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/dll/dll/dll.vcproj
+END

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MHCDGUI", "MHCDGUI\MHCDGUI.vcxproj", "{7093DBAA-ADA7-44CA-9D9F-484EDB89E257}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A134C8EB-0A25-4B0D-BA37-01DA7D8E84F5} = {A134C8EB-0A25-4B0D-BA37-01DA7D8E84F5}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll", "dll\dll.vcxproj", "{A134C8EB-0A25-4B0D-BA37-01DA7D8E84F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7093DBAA-ADA7-44CA-9D9F-484EDB89E257}.Debug|x64.ActiveCfg = Debug|Win32
+		{7093DBAA-ADA7-44CA-9D9F-484EDB89E257}.Debug|x86.ActiveCfg = Debug|Win32
+		{7093DBAA-ADA7-44CA-9D9F-484EDB89E257}.Debug|x86.Build.0 = Debug|Win32
+		{7093DBAA-ADA7-44CA-9D9F-484EDB89E257}.Release|x64.ActiveCfg = Release|Win32
+		{7093DBAA-ADA7-44CA-9D9F-484EDB89E257}.Release|x86.ActiveCfg = Release|Win32
+		{7093DBAA-ADA7-44CA-9D9F-484EDB89E257}.Release|x86.Build.0 = Release|Win32
+		{A134C8EB-0A25-4B0D-BA37-01DA7D8E84F5}.Debug|x64.ActiveCfg = Debug|Win32
+		{A134C8EB-0A25-4B0D-BA37-01DA7D8E84F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{A134C8EB-0A25-4B0D-BA37-01DA7D8E84F5}.Debug|x86.Build.0 = Debug|Win32
+		{A134C8EB-0A25-4B0D-BA37-01DA7D8E84F5}.Release|x64.ActiveCfg = Release|Win32
+		{A134C8EB-0A25-4B0D-BA37-01DA7D8E84F5}.Release|x86.ActiveCfg = Release|Win32
+		{A134C8EB-0A25-4B0D-BA37-01DA7D8E84F5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
