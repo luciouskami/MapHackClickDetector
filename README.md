@@ -5,6 +5,9 @@ This is a tool for detecting the selection of invisible heroes by maphack in War
 ## Usage
 Build using VS2015, then copy MHCDDLL.dll into the same folder with war3.exe. Start war3 and MHCDGUI, then click "Initialize". If everything is OK, "Started" will be shown in the MHCDGUI.
 
+Here is the example: I used maphack and selected an invisible enemy hero, the tool would detected the cheating. If some other player has maphack and do so, it will also be detected.
+![alt tag](https://github.com/zhujf553/MapHackClickDetector/blob/master/Illustration.png?raw=true)
+
 ## Implementation
 
 By calling native JASS function in war3 game engine, we can get information like whether a unit is a hero (GetHeroLevel), whether a unit is visible to some player (IsUnitVisible), whether a unit is selected by some player (IsUnitSelected). 
